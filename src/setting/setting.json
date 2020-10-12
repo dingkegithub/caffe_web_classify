@@ -1,0 +1,22 @@
+{
+  "env": {
+    "process_num": 1,
+    "listen_port": 8080
+  },
+
+  "log": {
+    "level": 1,
+    "size": 20,
+    "dir": "",
+    "name": "log"
+  },
+
+  "acr": {
+    "model": "",
+    "mean": "",
+    "deploy": "",
+    "word": "",
+    "gpu_enable": false,
+    "gpu_number": 0
+  }
+}

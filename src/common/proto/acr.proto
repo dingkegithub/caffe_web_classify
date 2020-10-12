@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package lacr;
+
+service Classify {
+  rpc Recognise(Request) returns (Response) {}
+}
+
+message Request {
+  string path = 1;
+  bytes img = 2;
+}
+
+message Response {
+    int32 status = 1;
+    float score = 2;
+    string name = 3;
+}

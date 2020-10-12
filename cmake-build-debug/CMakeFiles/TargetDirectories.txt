@@ -1,0 +1,3 @@
+/Users/dk/github/caffe_web_classify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dk/github/caffe_web_classify/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dk/github/caffe_web_classify/cmake-build-debug/CMakeFiles/lacr.dir
